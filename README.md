@@ -26,7 +26,7 @@ Aplikasi memiliki 5 halaman utama dengan navigasi menggunakan Bottom Navigation 
 |----------|-----------|
 | Splash Screen | ![Splash](screenshots/splash.jpg) |
 | Dashboard | ![Dashboard](screenshots/dashboard.jpg) |
-| Biodata | ![Biodata]|
+| Biodata | ![Biodata](screenshots/biodata.jpg)|
 | Kontak | ![Kontak](screenshots/kontak.jpg) |
 | Kalkulator | ![Kalkulator](screenshots/kalkulator.jpg) |
 | Cuaca | ![Cuaca](screenshots/cuaca.jpg)|
