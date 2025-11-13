@@ -31,7 +31,7 @@ Aplikasi memiliki 5 halaman utama dengan navigasi menggunakan Bottom Navigation 
 | Kalkulator | ![Kalkulator](screenshots/kalkulator.jpg) |
 | Cuaca | ![Cuaca](screenshots/cuaca.jpg)|
 |Cuaca |![Cuaca](screenshots/cuaca1.jpg)|
-| Berita | ![Berita](screenshots/berita.jpg) |
+| Berita | ![Berita](screenshots/berita.jpg)|
 
 > Semua desain dibuat dengan memperhatikan prinsip UI/UX yang bersih, modern, dan responsif.
 
